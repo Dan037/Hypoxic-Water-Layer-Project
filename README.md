@@ -26,7 +26,7 @@ files are several MB each), place them in the same folder as the Python notebook
 are in chronological order, the program will separate the data in them by date, find all the depths which 
 have hypoxic oxygen conditions on that date, and plot the shallowest depth for that date. The final output 
 is a graph with date on the x-axis and shallowest depth where hypoxia appears for that date on the y-axis. 
-This code will run very slowly on slower or older computers.
+This code will run very slowly on slower or older computers, so use it at your own risk.
 
 # Sources:
 
